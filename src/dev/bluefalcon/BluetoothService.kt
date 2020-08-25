@@ -9,5 +9,5 @@ actual class BluetoothService(val service: BluetoothGattService) {
         get() = service.characteristics.map {
             BluetoothCharacteristic(it)
         }
-    val commitAhead = "Ahead."
+    val commitAhead = "Ahead.PartTwo"
 }
