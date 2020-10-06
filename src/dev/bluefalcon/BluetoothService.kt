@@ -11,4 +11,5 @@ actual class BluetoothService(val service: BluetoothGattService) {
         }
     val anotherChange = "Test"
     val commitAhead = "Ahead.PartTwo"
+    val moveMaster = "furtherAhead"
 }
