@@ -21,3 +21,5 @@ actual class BluetoothService(val service: BluetoothGattService) {
 var noconflict = "hi"
 
 var nicktard="hello"
+
+var lunatic="dog"
