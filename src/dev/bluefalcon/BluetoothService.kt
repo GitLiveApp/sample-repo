@@ -2,6 +2,7 @@ package dev.bluefalcon
 
 import android.bluetooth.BluetoothGattService
 
+luna = "dog"
 victoria = "ola"
 
 var another = "hi"
