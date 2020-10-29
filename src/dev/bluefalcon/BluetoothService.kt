@@ -2,6 +2,8 @@ package dev.bluefalcon
 
 import android.bluetooth.BluetoothGattService
 
+
+var another = "hi"
 actual class BluetoothService(val service: BluetoothGattService) {
     actual val name: String?
         get() = service.uuid.toString()
