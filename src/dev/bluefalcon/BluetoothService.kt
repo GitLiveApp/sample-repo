@@ -15,3 +15,5 @@ actual class BluetoothService(val service: BluetoothGattService) {
     val commitAhead = "Ahead.PartTwo"
     val moveMaster = "furtherAhead"
 }
+
+var noconflict = "hi"
