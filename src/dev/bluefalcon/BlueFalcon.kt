@@ -10,7 +10,7 @@ import android.content.Context
 import android.content.pm.PackageManager
 import android.os.ParcelUuid
 import java.util.*
-
+fdsfsdffds
 actual class BlueFalcon actual constructor(
         private val context: ApplicationContext,
         private val serviceUUID: String?
@@ -69,7 +69,15 @@ actual class BlueFalcon actual constructor(
                     BluetoothCharacteristic(it)
                 }
             }
-
+refeewrfsf
+    fds
+    f
+    ds
+    fd
+    fds
+    sf
+    fds
+    fds
     actual fun readCharacteristic(
             bluetoothPeripheral: BluetoothPeripheral,
             bluetoothCharacteristic: BluetoothCharacteristic
