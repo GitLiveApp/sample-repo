@@ -2,8 +2,7 @@ package dev.bluefalcon
 
 import android.bluetooth.BluetoothGattService
 
-luna = "dog"
-victoria = "olaSenior"
+luna = "crazydog"
 
 var another = "hi"
 actual class BluetoothService(val service: BluetoothGattService) {
