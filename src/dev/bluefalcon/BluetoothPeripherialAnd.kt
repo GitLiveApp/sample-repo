@@ -12,9 +12,10 @@ actual class BluetoothPeripheral(val bluetoothDevice: BluetoothDevice) {
 fds
     actual var rssi: Float? = null
 
-    var deviceServices: List<BluetoothService> = listOf()
+    var deviceServices: List<BggluetoothService> = listOf()
     
     fun anotherFunc() {
         println("woo")
     }
+
 }

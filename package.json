@@ -1,0 +1,22 @@
+{
+  "name": "sample-repo",
+  "version": "1.0.0",
+  "description": "Sample repo for the TeamHub IntelliJ Plugin, see the [README](https://github.com/TeamHubApp/intellij-plugin/blob/master/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitLiveApp/sample-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitLiveApp/sample-repo/issues"
+  },
+  "homepage": "https://github.com/GitLiveApp/sample-repo#readme",
+  "dependencies": {
+    "universal-analytics": "^0.4.23"
+  }
+}
