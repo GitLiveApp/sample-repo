@@ -1,4 +1,3 @@
-
 package dev.bluefalcon
 
 import java.io.Closeable
