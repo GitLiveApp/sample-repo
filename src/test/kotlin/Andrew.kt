@@ -9,5 +9,6 @@ class Andrew: Foo() {
         bf.anotherFunc()
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
         val timHenman = "dsadsadsa"
+        val neverAges = "true story"
     }
 }
