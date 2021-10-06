@@ -15,7 +15,7 @@ actual class BlueFalcon actual constructor(
         private val context: ApplicationContext,
         private val serviceUUID: String?
 ) {
-    actual val cherryPickTest = "Tasty Cherry"
+    actual val cherryPickTest = "Tasty Feature branch"
     actual val delegates: MutableSet<BlueFalconDelegate> = mutableSetOf()
     private val bluetoothManager: BluetoothManager = context.getSystemService(Context.BLUETOOTH_SERVICE) as BluetoothManager
     private val mBluetoothScanCallBack = BluetoothScanCallBack()
