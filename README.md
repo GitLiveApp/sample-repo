@@ -2,4 +2,4 @@ Sample repo for the TeamHub IntelliJ Plugin, see the [README](https://github.com
 
 dsadas
 
-Another change
+Another change.
