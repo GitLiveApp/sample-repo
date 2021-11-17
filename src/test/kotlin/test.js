@@ -1,6 +1,6 @@
 class Foo {
 
-    fun bar(): Boolean {
+    bar(): Boolean {
         return true
     }
 
@@ -8,3 +8,5 @@ class Foo {
         println(fdsfsd)
     }
 }
+
+class Diff {}
