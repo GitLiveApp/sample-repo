@@ -1,6 +1,6 @@
 class Foo {
 
-    bar(): Boolean {
+    baz(): Boolean {
         return true
     }
 
