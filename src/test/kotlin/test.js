@@ -7,6 +7,8 @@ class Foo {
     fun hello() {
         println(fdsfsd)
     }
+
+    ???
 }
 
 class Diff {}
