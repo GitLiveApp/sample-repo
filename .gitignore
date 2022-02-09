@@ -16,6 +16,6 @@ node_modules
 /dist
 /resources/dark/.DS_Store
 .DS_Store
-
+/bin
 .idea/
 /.idea/
