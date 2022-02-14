@@ -1,0 +1,8 @@
+gutter
+diff
+test
+where
+all
+but
+last line
+are equal
