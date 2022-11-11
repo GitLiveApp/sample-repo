@@ -11,3 +11,18 @@
     // deleted		added		modified    DelAddMod.kt
     // modified	    deleted		deleted     ModDelDel.kt
     // added		deleted		unmodified  AddDelUnmod.kt
+
+    this is gl codeshare yes
+    switching to cwm ok
+    how about now?
+    I can see it
+    ok, great
+    how do I end codeshare
+    hmm
+    works for you?
+    can you see me? Yes
+   can yo see this
+    are you editing with me?
+    Yes I am
+
+   changing file
